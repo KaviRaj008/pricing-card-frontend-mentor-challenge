@@ -1,4 +1,3 @@
-function alert() {
-     alert('dont you dsre it to touch it again');
-     console.log("thanks");
+function alertuser() {
+     alert("don't you dare  to touch it again");
 }
